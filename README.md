@@ -15,4 +15,4 @@ Link: http://www.dl.begellhouse.com/en/journals/6a7c7e10642258cc,305457f35c6c6b3
 
 Worked on this as part of my masters thesis.
 
-Link to thesis: http://bit.ly/mtechthesis
+Link to thesis: http://bit.ly/nsrmtechthesis
